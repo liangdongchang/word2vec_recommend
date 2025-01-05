@@ -8,7 +8,8 @@
 
 ## 效果
 
-![image-20250105141137406](img/推荐系统效果.png)
+![image](https://github.com/user-attachments/assets/951b26b7-e084-4abe-8ed9-418e9b492400)
+
 
 
 
@@ -74,6 +75,6 @@ pip install jieba
 效果：
 
 [网址点我跳转](http://newbook.qsxbc.com/)
+![image](https://github.com/user-attachments/assets/4c837bd0-037e-4416-950a-a80b2195a018)
 
-![image-20250104233451531](img/推荐系统效果.png)
 
